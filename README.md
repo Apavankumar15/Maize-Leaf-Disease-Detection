@@ -4,6 +4,8 @@ This project implements an end-to-end deep learning approach to automatically de
 
 The model classifies maize leaf images into four categories: Blight, Common Rust, Gray Leaf Spot, and Healthy.
 
+Check the app : https://maize-leaf-disease-detection-e8xu38j7dtabjzpu9itdmd.streamlit.app/
+
 
 ##  Problem Statement
 
